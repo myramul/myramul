@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+myra.
+
+b.s. cs student 
+
+languages: c++, c#, javascript, html/css, sql
+
+os: windows, macOS, linus
