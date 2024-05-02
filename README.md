@@ -18,6 +18,6 @@ myra.
 
 b.s. cs student 
 
-languages: c++, c#, javascript, html/css, sql
+languages: c++, c#, JS, html/css, sql, python
 
-os: windows, macOS, linus
+os: windows, macOS, linux
